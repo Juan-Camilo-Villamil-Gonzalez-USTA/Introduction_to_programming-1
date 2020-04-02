@@ -1,2 +1,4 @@
 # Introduction_to_programming
 This repository will be all the projects of introduction to programming (DFD AND JAVA)
+# Created by: Luis Fernando Castellanos Guarin
+Docente investigador, Ingeniero de Sistemas con Énfasis en Telecomunicaciones, Especialista en tecnologías avanzadas para el desarrollo de software, Magister en Gestión, Aplicación y Desarrollo de Software, con experiencia en implementación y gestión de proyectos software (Diseño de Arquitectura, base de datos y SQA ) para empresas como TeleBucaramanga, UNAB, INVIAS y el SENA. Con experticia académica en Calidad del software, desarrollo de aplicaciones web, gestión y auditoria de Base de datos, desarrollo e implementación de algoritmos de inteligencia artificial enfocado en Deep Learning para uso en PLN y visión por computadora.
