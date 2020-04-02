@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+107
+'Este programa fue creado por Juan David Amezquita, y fue diseñado para calcular el volumen de un cilindro'
+4
+1
+31
+'Ingrese el radio del cilindro'
+5
+1
+5
+radio
+4
+1
+32
+'Ingrese la altura del cilindro'
+5
+1
+6
+height
+6
+1
+6
+volume
+28
+3.14167 * radio ^ 2 * height
+4
+1
+39
+'El volumen se su cilindro es:', volume
+4
+1
+44
+'Gracias por usar, y preferir este software'
+1

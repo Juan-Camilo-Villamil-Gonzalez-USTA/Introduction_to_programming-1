@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+104
+'Este programa fue creado por Juan David Amezquita, y sirve para determinar si un numero es par o impar'
+4
+1
+19
+'Ingrese el numero'
+5
+1
+3
+num
+6
+1
+8
+residuo 
+9
+num mod 2
+7
+0
+1
+11
+residuo = 0
+4
+1
+31
+'El numero ingresado, es impar'
+13
+4
+1
+21
+'Este numero. es par'
+13
+4
+1
+48
+'Gracias por utilizar, y preferir este software'
+1

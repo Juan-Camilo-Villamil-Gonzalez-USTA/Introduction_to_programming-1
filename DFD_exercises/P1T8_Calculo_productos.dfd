@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese el valor del primer producto'
+5
+1
+2
+P1
+4
+1
+38
+'Ingrese el valo del segundo producto'
+5
+1
+2
+P2
+4
+1
+38
+'Ingrese el valor del tercer producto'
+5
+1
+2
+P3
+4
+1
+38
+'Ingrese el valor del cuarto producto'
+5
+1
+2
+P4
+6
+3
+11
+Total_bruto
+18
+P1 + P2 + P3 + P4 
+3
+IVA
+16
+Total_bruto*0.19
+5
+Total
+15
+Total_bruto+IVA
+4
+1
+98
+'La factura es, total bruto', Total_bruto, ' El valor del IVA:', IVA, ' El valor total es:', Total
+1

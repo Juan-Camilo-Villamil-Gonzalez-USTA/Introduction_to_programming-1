@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+111
+'Esate programa fue creado por Juan David Amezquita, y sirve para determinar entre 3 numeros, cual es el mayor'
+4
+1
+26
+'Ingrese el primer numero'
+5
+1
+1
+A
+4
+1
+37
+'Ingrese el valor del segundo número'
+5
+1
+1
+B
+4
+1
+36
+'ingrese el valor del tercer número'
+5
+1
+1
+C
+7
+0
+1
+16
+A = B and  B = C
+7
+0
+1
+15
+A > B and A > B
+7
+0
+1
+15
+B > A and B > C
+4
+1
+24
+'El numero mayor es:', C
+13
+4
+1
+24
+'El numero mayor es:', B
+13
+13
+4
+1
+24
+'El numero mayor es:', A
+13
+13
+4
+1
+67
+'Los numeros son iguales y no se puede determinar cual es el mayor'
+13
+4
+1
+48
+'Gracias por utilizar, y preferir este software'
+1

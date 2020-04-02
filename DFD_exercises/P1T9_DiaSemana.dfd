@@ -1,0 +1,122 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'Este programa recibe un numero de la semana, y retorna en letras'
+4
+1
+19
+'Ingrese el numero'
+5
+1
+9
+DiaSemana
+7
+0
+1
+13
+DiaSemana < 0
+7
+0
+1
+13
+DiaSemana > 7
+7
+0
+1
+13
+DiaSemana = 1
+7
+0
+1
+13
+DiaSemana = 2
+7
+0
+1
+13
+DiaSemana = 3
+7
+0
+1
+13
+DiaSemana = 4
+7
+0
+1
+13
+DiaSemana = 5
+7
+0
+1
+13
+DiaSemana = 6
+7
+0
+1
+13
+DiaSemana = 7
+13
+4
+1
+29
+'El dia 7, es el dia domingo'
+13
+13
+4
+1
+28
+'El dia 6, es el dia sabado'
+13
+13
+4
+1
+29
+'El dia 5, es el dia viernes'
+13
+13
+4
+1
+28
+'El dia 4, es el dia jueves'
+13
+13
+4
+1
+31
+'El dia 3, es el dia miercoles'
+13
+13
+4
+1
+28
+'El dia 2, es el dia martes'
+13
+13
+4
+1
+27
+'El dia 1, es el dia lunes'
+13
+13
+4
+1
+57
+'Este dia no existe, devuelvase a primaria, que le pasa.'
+13
+13
+4
+1
+57
+'Este dia no existe, devuelvase a primaria, que le pasa.'
+13
+4
+1
+69
+'Gracias por utilizar este maravilloso software de ultima generacion'
+1

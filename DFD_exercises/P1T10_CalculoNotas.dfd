@@ -1,0 +1,142 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+67
+'Este software le va a yudar a calcular su nota final del semestre'
+4
+1
+63
+'Ingrese la nota de su primera evaluacion equivalente al 20%::'
+5
+1
+5
+Note1
+7
+0
+1
+9
+Note1 < 0
+7
+0
+1
+9
+Note1 > 5
+13
+4
+1
+44
+'Como se va a sacar mas de 5 no sea marica.'
+13
+5
+1
+5
+Note2
+13
+4
+1
+26
+'Usted es re malo no joda'
+13
+7
+0
+1
+9
+Note2 < 1
+7
+0
+1
+9
+Note2 > 5
+13
+4
+1
+42
+'No sea marica com se va a sacar mas de 5'
+13
+13
+4
+1
+27
+'Usted es muy malo no joda'
+13
+4
+1
+62
+'Ingrese la nota de su tercera evaluacion equivalente al 25%:'
+5
+1
+5
+Note3
+7
+0
+1
+9
+Note3 < 1
+7
+0
+1
+9
+Note3 > 5
+13
+4
+1
+58
+'No sea tan marica a lo bien, como se va a sacar mas de 5'
+13
+13
+4
+1
+33
+'Usted es re malo, no sea marica'
+13
+4
+1
+61
+'Ingrese la nota de su cuarta evaluacion equivalente al 30%:'
+5
+1
+5
+Note4
+7
+0
+1
+9
+Note4 < 1
+7
+0
+1
+9
+Note4 > 5
+13
+4
+1
+48
+'No sea tan marico, como se va a sacar mas de 5'
+13
+13
+4
+1
+29
+'Usted es muy malo a lo bien'
+13
+6
+1
+5
+Total
+47
+Note1*0.2 + Note2*0.25 + Note3*0.25 + Note4*0.3
+4
+1
+29
+'Su nota final es de:', Total
+1
+2
+0
+0
+0
+3

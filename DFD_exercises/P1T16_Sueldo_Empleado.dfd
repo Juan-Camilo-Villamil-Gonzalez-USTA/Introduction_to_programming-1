@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+96
+'Este programa fue desarrollado por Juan David Amezquita, y determian el salario de un empleado'
+4
+1
+55
+'Por favor ingrese el sueldo con el que fue contratado'
+5
+1
+6
+sueldo
+4
+1
+39
+'Ingrese el numero de dias que trabajo'
+5
+1
+4
+dias
+7
+0
+1
+35
+sueldo < 0 or dias < 0 or dias > 30
+6
+1
+7
+salario
+17
+(sueldo) * (dias)
+4
+1
+42
+'El saladio del empleado, es de:', salario
+13
+4
+1
+83
+'ERROR, los dias no pueden ser menores a 0, y los dias tienen que ser entre 1 y 30'
+13
+1

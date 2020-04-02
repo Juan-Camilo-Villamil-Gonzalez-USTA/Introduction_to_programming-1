@@ -1,0 +1,330 @@
+ Dfd (c)
+1
+1
+6
+0
+0
+12
+1
+6
+p_menu
+1
+8
+o_option
+9
+1
+13
+o_option != 0
+7
+0
+1
+12
+o_option = 1
+7
+0
+1
+12
+o_option = 2
+7
+0
+1
+12
+o_option = 3
+7
+0
+1
+12
+o_option = 4
+13
+12
+1
+8
+p_divide
+0
+13
+13
+12
+1
+10
+p_multiply
+0
+13
+13
+12
+1
+7
+p_resta
+0
+13
+13
+12
+1
+6
+p_suma
+0
+13
+12
+1
+6
+p_menu
+1
+8
+o_option
+11
+1
+2
+1
+6
+p_menu
+1
+8
+o_option
+1
+106
+este programa me genera un menú donde se visualiza las opciones de la calculadora, y me retorna una opcion
+4
+1
+182
+'Este programa simula una calculadora
+
+Creado por Juan David Amezquita
+
+Elija una opcion:
+
+1. Para suma
+2. Para resta
+3. Para multiplicacion
+4. Para division
+0. Para salir'
+5
+1
+8
+o_option
+3
+2
+1
+6
+p_suma
+0
+1
+54
+Este subprograma permite calcular la suma de N numeros
+4
+1
+60
+' SUMA: ingrese la cantidad de numeros que van a sumarse : '
+5
+1
+1
+N
+6
+1
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+36
+'Ingrese el valor del número  : ', i
+5
+1
+3
+num
+6
+1
+4
+suma
+10
+suma + num
+10
+4
+1
+36
+'La suma de los números es : ', suma
+3
+2
+1
+7
+p_resta
+0
+1
+55
+Este subprograma permite calcular la resta de N numeros
+4
+1
+59
+' RESTA: ingrese la cantidad de numeros de desea restar : '
+5
+1
+1
+N
+6
+1
+6
+resta 
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+23
+' Ingrese el valor  ',i
+5
+1
+3
+num
+7
+0
+1
+5
+i = 1
+6
+1
+6
+resta 
+11
+resta - num
+13
+6
+1
+6
+resta 
+3
+num
+13
+10
+4
+1
+68
+'El resultado de la resta de sus numeros ingresados es de : ', resta
+3
+2
+1
+10
+p_multiply
+0
+1
+64
+Este subprograma permite calcular la multiplicacion de N numeros
+4
+1
+114
+' MULTIPLICACIóN: este programa multiplica la cantidad de numeros que desee, cuantos numeros desea multiplicar : '
+5
+1
+1
+N
+6
+1
+8
+multiply
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+41
+'Ingrese el valor del  ',i, ' nuúmero : '
+5
+1
+3
+num
+7
+0
+1
+5
+i = 1
+6
+1
+8
+multiply
+14
+multiply * num
+13
+6
+1
+8
+multiply
+3
+num
+13
+10
+4
+1
+58
+'El resultado de su multiplicacion es igual a : ',multiply
+3
+2
+1
+8
+p_divide
+0
+1
+61
+Este programa lo que hace es dividir la cantidad de numeros N
+4
+1
+65
+'Ingrese primero el numero del dividendo, y luego el del divisor'
+5
+1
+18
+dividendo, divisor
+9
+1
+11
+divisor = 0
+4
+1
+45
+' ERROR, el dividendo no puede ser igual a 0'
+11
+6
+1
+6
+divide
+19
+dividendo / divisor
+4
+1
+34
+'La division es igual a : ',divide
+3

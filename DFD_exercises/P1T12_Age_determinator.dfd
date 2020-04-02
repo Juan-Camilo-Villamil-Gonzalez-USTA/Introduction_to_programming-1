@@ -1,0 +1,89 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+114
+'Este programa determina segun la edad, si es un niño, un adolescente, un adulto, un adulto mayor, o un matusalen'
+4
+1
+40
+'Porfavor ingrese la edad de la persona'
+5
+1
+4
+EDAD
+7
+0
+1
+8
+EDAD < 0
+7
+0
+1
+8
+EDAD < 6
+7
+0
+1
+9
+EDAD < 18
+7
+0
+1
+9
+EDAD < 45
+7
+0
+1
+9
+EDAD < 90
+7
+0
+1
+10
+EDAD >= 90
+13
+4
+1
+30
+'Esta persona es un matusalen'
+13
+13
+4
+1
+33
+'Esta persona es un adulto mayor'
+13
+13
+4
+1
+27
+'Esta persona es un adulto'
+13
+13
+4
+1
+32
+'Esta persona es un adolescente'
+13
+13
+4
+1
+25
+'Esta persona es un niño'
+13
+13
+4
+1
+28
+'Esta persona, no ha nacido'
+13
+4
+1
+40
+'Gracias por hacer uso de este software'
+1

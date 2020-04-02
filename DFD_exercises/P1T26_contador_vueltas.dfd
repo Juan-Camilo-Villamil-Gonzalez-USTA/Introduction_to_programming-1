@@ -1,0 +1,106 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+194
+'Este software, registra los tiempos de cada vuelta de entrenamiento, nos dice cual fue la mejor vuelta, el promedio, y el numero de vueltas por entrenamiento, diseñado por Juan David Amezquita'
+6
+3
+5
+tired
+1
+0
+8
+best_lap
+1
+0
+10
+total_laps
+1
+0
+6
+1
+8
+sum_time
+1
+0
+9
+1
+9
+tired = 0
+6
+1
+10
+total_laps
+14
+total_laps + 1
+4
+1
+54
+'Ingrese el tiempo de la vuelta numero . ', total_laps
+5
+1
+4
+time
+6
+1
+8
+sum_time
+15
+sum_time + time
+7
+0
+1
+14
+total_laps = 1
+7
+0
+1
+15
+time > best_lap
+13
+6
+1
+8
+best_lap
+4
+time
+13
+13
+6
+1
+8
+best_lap
+4
+time
+13
+4
+1
+52
+'¿Quiere continuar? Escriba 1 para si, y 0 para no' 
+5
+1
+5
+tired
+11
+6
+1
+7
+average
+21
+sum_time / total_laps
+4
+1
+126
+'El mejor tiempo fue de : ', best_lap, '
+El tiempo promedio es de : ', average, '
+El numreo de vueltas es de : ', total_laps
+4
+1
+36
+'Gracias por utilizar este software'
+1

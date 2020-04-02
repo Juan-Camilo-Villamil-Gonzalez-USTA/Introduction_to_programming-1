@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+106
+'Este programa calcula el valor bruto, y el valor total de sus productos, cuantos productos compro usted?'
+5
+1
+1
+N
+6
+3
+11
+valor_bruto
+1
+0
+3
+iva
+1
+0
+11
+valor_total
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+44
+'Ingrese el valor del producto numero : ', i
+5
+1
+14
+valor_producto
+6
+1
+11
+valor_bruto
+28
+valor_bruto + valor_producto
+10
+6
+2
+3
+iva
+18
+valor_bruto * 0.19
+11
+valor_total
+17
+iva + valor_bruto
+4
+1
+156
+'El valor bruto de su compra es de : ', valor_bruto,  '
+El total del iva del producto es de : ', iva,  '
+El valor total de producto es de : ', valor_total
+1

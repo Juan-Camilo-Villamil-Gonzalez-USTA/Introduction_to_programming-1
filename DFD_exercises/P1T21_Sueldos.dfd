@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+166
+'El siguiente software, calcula el salario promedio, el salario total, y el salario mas alto dentro de los empleados, para iniciar, ingrese el numero de empleados : '
+5
+1
+1
+N
+6
+3
+10
+s_promedio
+1
+0
+7
+s_total
+1
+0
+11
+high_salary
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+80
+' Ingrese el sueldo del  ', i, '  empleado, y luego ingrese los dias trabajados'
+5
+1
+15
+sueldo , dias_t
+6
+2
+6
+salary
+22
+(sueldo / 30) * dias_t
+7
+s_total
+16
+s_total + salary
+7
+0
+1
+20
+salary > high_salary
+13
+6
+1
+11
+high_salary
+6
+salary
+13
+10
+6
+1
+10
+s_promedio
+11
+s_total / N
+4
+1
+113
+'Salario total es a : ', s_total, ' el promedio es de ', s_promedio, ' y el salario mas alto es de ', high_salary
+1

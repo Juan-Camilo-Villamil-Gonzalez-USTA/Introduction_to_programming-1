@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+141
+'Este software fue creado por Juan David Amezquita y sirve para sumar la cantidad de numeros que desee, y hacer el promedio de estos numeros'
+4
+1
+32
+'Cuantos numeros va a ingresar?'
+6
+2
+4
+suma
+1
+0
+8
+promedio
+1
+0
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+41
+'Porfavor ingrese el valor del numero', i
+5
+1
+6
+numero
+6
+1
+4
+suma
+13
+suma + numero
+10
+6
+1
+8
+promedio
+8
+suma / N
+4
+1
+19
+'La suma es:', suma
+4
+1
+28
+'El promedio es: ', promedio
+1

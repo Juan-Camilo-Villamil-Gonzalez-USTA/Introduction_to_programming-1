@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'Este software determina que presión tiene según el indice de presión sistolica'
+4
+1
+73
+'Por favor ingresar el indice de presion arterial sistolica del paciente'
+5
+1
+7
+Presure
+7
+0
+1
+12
+Presure <= 0
+7
+0
+1
+12
+Presure < 64
+7
+0
+1
+14
+Presure <= 120
+7
+0
+1
+14
+Presure <= 139
+7
+0
+1
+14
+Presure <= 159
+7
+0
+1
+14
+Presure >= 160
+13
+4
+1
+55
+'EL PACIENTE SE ESTA MUERIENDO, SALVELO, NO SEA MARICA'
+13
+13
+4
+1
+62
+'EL PACIENTE SE ENCUENTRA EN ESTADO HIPERTENSO, TENGA CUIDADO'
+13
+13
+4
+1
+32
+'El paciente esta prehipertenso'
+13
+13
+4
+1
+38
+'El paciente esta en un estado normal'
+13
+13
+4
+1
+32
+' El paciente tiene hipotensión'
+13
+13
+4
+1
+21
+'ERROR, dato erroneo'
+13
+1
