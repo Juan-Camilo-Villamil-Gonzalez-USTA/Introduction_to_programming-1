@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="P140_grades_student:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48839574-a699-4ebf-9057-80c6f2876813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Za4Pm7p5pZtsFq4sMdTdNwpwsS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="p140_grades_student" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
+      <module name="P140_grades_student" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48839574-a699-4ebf-9057-80c6f2876813" name="Default Changelist" comment="" />
+      <created>1585063848603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585063848603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2079" y="382" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585232150513">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2079" y="382" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585232150513" />
+    <state x="2131" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1585065001104">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2131" y="234" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585065001104" />
+    <state x="2077" y="376" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585146673735">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2077" y="376" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585146673735" />
+    <state x="558" y="208" key="FileChooserDialogImpl" timestamp="1585237541727">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="2151" y="292" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585232396521" />
+    <state x="558" y="208" key="FileChooserDialogImpl/1366.0.1920.1080/0.0.1366.768/3286.0.1024.768@0.0.1366.768" timestamp="1585237541727" />
+    <state width="1876" height="294" key="GridCell.Tab.0.bottom" timestamp="1585244738120">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="294" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585244738120" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585078065020" />
+    <state width="1876" height="294" key="GridCell.Tab.0.center" timestamp="1585244738119">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="294" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585244738119" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585078065019" />
+    <state width="1876" height="294" key="GridCell.Tab.0.left" timestamp="1585244738119">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="294" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585244738119" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585078065019" />
+    <state width="1876" height="294" key="GridCell.Tab.0.right" timestamp="1585244738119">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="294" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585244738119" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585078065019" />
+    <state x="1827" y="172" key="SettingsEditor" timestamp="1585240058740">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1827" y="172" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585240058740" />
+    <state x="328" y="53" key="SettingsEditor/1366.0.1920.1080/0.0.1366.768/3286.0.1024.768@0.0.1366.768" timestamp="1585237547103" />
+    <state x="1827" y="167" key="SettingsEditor/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1585146706424" />
+    <state x="1708" y="160" key="new project wizard" timestamp="1585669741680">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1708" y="160" key="new project wizard/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585669741680" />
+    <state x="2018" y="384" width="707" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585240057199">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2018" y="384" width="707" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585240057199" />
+    <state x="464" y="273" width="707" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/1366.0.1920.1080/0.0.1366.768/3286.0.1024.768@0.0.1366.768" timestamp="1585237545535" />
+  </component>
+</project>
