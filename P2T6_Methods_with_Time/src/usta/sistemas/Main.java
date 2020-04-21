@@ -9,6 +9,7 @@ public class Main {
                     o The number of seconds in a given time in hours.
                     o The number of seconds in a given time in minutes.
                     o The number of hours, minutes of a given time in seconds*/
+
 	    f_menu();
 	    int option= f_option();
 	    if (option==1){ //convert hours to seconds
@@ -59,10 +60,11 @@ public class Main {
     }
     public static void f_convert_seconds_to_hours_and_minutes(){
         //Description: convert seconds to hours and minutes.
-        Scanner keyboard= new Scanner(System.in);
         System.out.println("Input the numbers seconds to convert:");
+        Scanner keyboard= new Scanner(System.in);
         int seconds= keyboard.nextInt();
-        //int seconds=minutes*60;
-        //System.out.println("The numbers minutes :"+minutes +" have "+seconds+" Seconds");
+        int hours= seconds/3600;
+        int minutes= (seconds%3600)/60;
+        System.out.println("The numbers seconds :"+seconds +" is same to "+hours+" hours and "+minutes+" minutes");
     }
 }
