@@ -22,7 +22,6 @@ public class Main {
         }
         int surplus= money_user-product_cost;
         System.out.println("your surplus money is: $"+surplus+" the product time finish is: "+product_time+" seconds");
-
     }
     public static int f_menu_products() {
         //DESCRIPTION: This method contain the menu of the software
@@ -94,5 +93,4 @@ public class Main {
         }
         return  data_product;
     }
-
 }
