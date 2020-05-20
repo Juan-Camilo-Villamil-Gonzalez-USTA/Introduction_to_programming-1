@@ -12,7 +12,8 @@ public class Main {
 	    f_menu();
 	    f_fill_matrix();
 	    f_show_winner();
-	    f_show_row_winner();
+        f_show_most_vote();
+        f_show_less_vote();
 	    f_show_all_votes();
     }
 
@@ -51,12 +52,12 @@ public class Main {
             loser=0;
         }
     }
-    public static void f_show_row_winner(){
+    public static void f_show_most_vote(){
         //description: this you must view the rows that have the most voted for the winner and those that least
         int more_votes_winner=matrix_votes[0][winner], more_votes_winner_row=0;
         int more_votes_loser=matrix_votes[0][loser], more_votes_loser_row=0;
 
-        for (int i=0; i< matrix_votes.length;i++){  //to walk the matrix | row to row
+        for (int i=1; i< matrix_votes.length;i++){  //to walk the matrix | row to row
 
             if (more_votes_winner<matrix_votes[i][winner]){
                 more_votes_winner=matrix_votes[i][winner];
@@ -68,8 +69,28 @@ public class Main {
             }
 
         }
-        System.out.println(" the municipality whit the more votes by winner was :"+(more_votes_winner_row+1)+" total votes: "+more_votes_winner);
-        System.out.println(" the municipality whit the more votes by loser was :"+(more_votes_loser_row+1)+" total votes: "+more_votes_loser);
+        System.out.println(" the municipality whit the more votes for winner was :"+(more_votes_winner_row+1)+" total votes: "+more_votes_winner);
+        System.out.println(" the municipality whit the more votes for loser was :"+(more_votes_loser_row+1)+" total votes: "+more_votes_loser);
+    }
+    public static void f_show_less_vote(){
+        //description: this you must view the rows that have the less voted for the winner and those that least
+        int less_votes_winner=matrix_votes[0][winner], less_votes_winner_row=0;
+        int less_votes_loser=matrix_votes[0][loser], less_votes_loser_row=0;
+
+        for (int i=1; i< matrix_votes.length;i++){  //to walk the matrix | row to row
+
+            if (less_votes_winner>matrix_votes[i][winner]){
+                less_votes_winner=matrix_votes[i][winner];
+                less_votes_winner_row=i;
+            }
+            if (less_votes_loser>matrix_votes[i][loser]){
+                less_votes_loser=matrix_votes[i][loser];
+                less_votes_loser_row=i;
+            }
+
+        }
+        System.out.println(" the municipality whit the less votes for winner was :"+(less_votes_winner_row+1)+" total votes: "+less_votes_winner);
+        System.out.println(" the municipality whit the less votes for loser was :"+(less_votes_loser_row+1)+" total votes: "+less_votes_loser);
     }
     public static void f_show_all_votes(){
         //description: this methods show the all votes
