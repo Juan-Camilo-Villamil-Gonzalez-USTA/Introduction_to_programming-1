@@ -7,6 +7,8 @@ public class Main {
     // DATE:  2020-MAY-13
     // DESCRIPTION:this program simulate rate food in the Giordano Bruno building cafeteria. For this,
     // a scale of 1 to 10 was defined (1 denotes horrible and 10 denotes excellent)
+    public static Scanner keyboard= new Scanner(System.in);
+
     public static void main(String[] args) {
 	    int total_students= f_menu_total_students();
         int[][] rates_matrix=f_fill_rates_matrix(total_students);
@@ -17,7 +19,7 @@ public class Main {
 
     public static int f_menu_total_students() {
         //DESCRIPTION: This method show the initial menu and returns the total students
-        Scanner keyboard= new Scanner(System.in);
+
         System.out.println("╔════════════════════════════╗");
         System.out.println("║       SoftRatesFoods       ║");
         System.out.println("║ Maker:LuisFdo Castellanosg ║");
