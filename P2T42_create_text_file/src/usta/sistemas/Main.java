@@ -11,9 +11,10 @@ public class Main {
 	 */
         try {    //perfect action
 
-            PrintWriter  admin_files = new PrintWriter("Z:/Users/lufer/Documents/prueba.txt");
+            PrintWriter  admin_files = new PrintWriter("d:/prueba_2020601.txt");
             admin_files.println("first line");
             admin_files.println("second line");
+            admin_files.println("finish ine");
             admin_files.close();
 
         } catch (Exception e) {  //exist err

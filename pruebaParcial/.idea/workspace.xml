@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d64519f4-0313-44e7-b23b-f27c493e420d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1chSho6Cr2Z4GoJWflsJ9KfEIQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/Mi unidad/USTA-202001/USTA-202001_1°_INTRODUCTION_TO_PROGRAMMING/Parcial_2°_corte/Torres_Ricardo_2Parcial" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
+      <module name="pruebaParcial" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d64519f4-0313-44e7-b23b-f27c493e420d" name="Default Changelist" comment="" />
+      <created>1590979454039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590979454039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1665" y="283" key="FileChooserDialogImpl" timestamp="1590980204585">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1665" y="283" key="FileChooserDialogImpl/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1590980204585" />
+    <state width="993" height="284" key="GridCell.Tab.0.bottom" timestamp="1590980204604">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="993" height="284" key="GridCell.Tab.0.bottom/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1590980204604" />
+    <state width="993" height="284" key="GridCell.Tab.0.center" timestamp="1590980204604">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="993" height="284" key="GridCell.Tab.0.center/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1590980204604" />
+    <state width="993" height="284" key="GridCell.Tab.0.left" timestamp="1590980204604">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="993" height="284" key="GridCell.Tab.0.left/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1590980204604" />
+    <state width="993" height="284" key="GridCell.Tab.0.right" timestamp="1590980204604">
+      <screen x="1366" y="0" width="1920" height="1050" />
+    </state>
+    <state width="993" height="284" key="GridCell.Tab.0.right/62.0.1304.768/1366.0.1920.1050@1366.0.1920.1050" timestamp="1590980204604" />
+  </component>
+</project>
