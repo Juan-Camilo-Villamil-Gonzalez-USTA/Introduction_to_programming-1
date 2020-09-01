@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="P2T48_GUI_many_forms:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="P2T48_GUI_many_forms.jar">
+      <element id="module-output" name="P2T48_GUI_many_forms" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

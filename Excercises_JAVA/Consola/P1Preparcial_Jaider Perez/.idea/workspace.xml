@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="107db7b1-9b3e-43a3-be12-2b171127594e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zcj4NRk2WkJ41W1OdJb1AOg2S5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
+      <module name="P1T31_Preparcial" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="107db7b1-9b3e-43a3-be12-2b171127594e" name="Default Changelist" comment="" />
+      <created>1585145084749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585145084749</updated>
+      <workItem from="1585145088991" duration="3453000" />
+      <workItem from="1585148705138" duration="22000" />
+      <workItem from="1585148787308" duration="1109000" />
+      <workItem from="1585185483285" duration="289000" />
+      <workItem from="1585232705679" duration="163000" />
+      <workItem from="1585239089583" duration="1307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="479" key="GridCell.Tab.0.bottom" timestamp="1585147915632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="479" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585147915632" />
+    <state width="1493" height="479" key="GridCell.Tab.0.center" timestamp="1585147915632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="479" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585147915632" />
+    <state width="1493" height="479" key="GridCell.Tab.0.left" timestamp="1585147915632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="479" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585147915632" />
+    <state width="1493" height="479" key="GridCell.Tab.0.right" timestamp="1585147915632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="479" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585147915632" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1585185766842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585185766842" />
+    <state x="209" y="0" key="new project wizard" timestamp="1585241868615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585241868615" />
+  </component>
+</project>
